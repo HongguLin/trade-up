@@ -49,7 +49,7 @@ Sprint 4 (Week 9 - Week 10) : Set up final version of development & prepare for 
 
 ## 2.2 Evidence of Decision Making ##
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-This is the link to the file: (https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
+Decision Making Sheet[https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit]
 
 
 ## 2.3 Traceability of Actions ##
@@ -131,8 +131,8 @@ This is the link to the file: (https://drive.google.com/drive/folders/0B1P_0vs9L
 - Learn Angular5
 - Research on rostering system
 - UI Design
-- Display allocation n the project calendar per employee
-- Find more info. on (https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
+- Display allocation in the project calendar per employee
+- Find more info on [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
@@ -144,7 +144,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 ## 5.1 Technical Depth of Outputs: ##
 
 - Current status is in progress with research, UI design for the Epic 2 rostering system. 
-- Team members will have to figure out how to design a rostering system with flexibility of moving employees from project to project.
+- Team members will have to figure out how to design and implement a rostering system with flexibility of moving employees from project to project.  
 
 <h3>System Archictecture of The Protyping System/Environment</h3>
 
@@ -164,4 +164,4 @@ We tried and used different tools in order to optimise our output
 - **Google Drive** for notes and documents
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
-Meeting Note in Google Drive[https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M]
+Meeting Note in [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
