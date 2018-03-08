@@ -56,6 +56,8 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 <h3> 2.3 Traceability of Actions </h3>
+[I'm an inline-style link](https://www.google.com)
+
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
@@ -78,9 +80,6 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
-
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
-<p align="center" vertical-align="middle"><b> Team </b></p>
 
 - We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks.
 
@@ -111,7 +110,6 @@ The team have engaged well in the planning and reporting process outlined by us 
 - We dress professional casual during our client meeting. 
 
 - We follow requirements and keep everything in confidentially as per.
-
 
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
 
@@ -168,3 +166,6 @@ We tried and used different tools in order to optimise our output
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
 Meeting Note in [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
+
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
+<p align="center" vertical-align="middle"><b> Team from Epic 1</b></p>
