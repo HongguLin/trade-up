@@ -14,6 +14,7 @@
 <br>
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
+
 [Trade Up](www.trade-up.com/au) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
 
 **Client's Vision**
@@ -52,6 +53,7 @@ Set up final version of development & prepare for poster showcase.
 
 <h3> 2.2 Evidence of Decision Making</h3>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
+
 [Decision Making Sheet](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
 
 
