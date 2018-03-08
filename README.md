@@ -177,6 +177,7 @@ Meeting Note in
 [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
 
 <br />
+<br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
