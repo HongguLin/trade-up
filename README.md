@@ -56,7 +56,6 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 <h3> 2.3 Traceability of Actions </h3>
-[I'm an inline-style link](https://www.google.com)
 
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
