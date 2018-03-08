@@ -33,23 +33,28 @@ Provide a user friendly platform that can calculate employees' productivity, ros
 
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
-## 2.1 Milestones ##
-Milestone 1: Project Calendar
+<h3> 2.1 Milestones </h3>
 
-Sprint 1 (Week 3 - Week 4) : Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
+<h4>Milestone 1: Project Calendar</h4>
 
-Sprint 2 (Week 5 - Week 6): Start development for project calendar features.
+**Sprint 1 (Week 3 - Week 4)**
+Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
 
-Milestone 2: Employee Rostering
+**Sprint 2 (Week 5 - Week 6)**
+Start development for project calendar features.
 
-Sprint 3 (Week 7 - Week 8): Link employee availability to the project calendar.
+<h4>Milestone 2: Employee Rostering</h4>
 
-Sprint 4 (Week 9 - Week 10) : Set up final version of development & prepare for poster showcase.
+**Sprint 3 (Week 7 - Week 8)** 
+Link employee availability to the project calendar.
+
+**Sprint 4 (Week 9 - Week 10)**
+Set up final version of development & prepare for poster showcase.
 
 
 ## 2.2 Evidence of Decision Making ##
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-Decision Making Sheet[https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit]
+(Decision Making Sheet)[https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit]
 
 
 ## 2.3 Traceability of Actions ##
