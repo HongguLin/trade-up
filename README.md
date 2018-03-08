@@ -43,25 +43,25 @@ Start development for project calendar features.
 
 <h4>Milestone 2: Employee Rostering</h4>
 
->Sprint 3 (Week 7 - Week 8)<br />
+>**Sprint 3** (Week 7 - Week 8)<br />
 Link employee availability to the project calendar.
 
->Sprint 4 (Week 9 - Week 10)<br />
+>**Sprint 4** (Week 9 - Week 10)<br />
 Set up final version of development & prepare for poster showcase.
 
 
-## 2.2 Evidence of Decision Making ##
+<h3> 2.2 Evidence of Decision Making</h3>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-(Decision Making Sheet)[https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit]
+[Decision Making Sheet](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
 
 
-## 2.3 Traceability of Actions ##
+<h3> 2.3 Traceability of Actions </h3>
 [See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
 
 [JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
 
 
-## 2.4 Team ##
+<h3> 2.4 Team </h3>
 
 | Team Member                      |        Role           | 
 | ---------------------------------| ----------------------| 
@@ -86,7 +86,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
 
-## 2.5 Development Approach ##
+<h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly sunday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
 
 - Each team member answers 3 following questions: 
@@ -98,14 +98,14 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
-## 2.6 Engagement With Stakeholders ##
+<h3> 2.6 Engagement With Stakeholders </h3>
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
 - We have regular client meeting from 2pm - 3pm every Saturday.
 
 - During our 1-hour client meeting, we ask client questions and update client the progress of our project.
 
-## 2.7 Professional Team Attitude ##
+<h3> 2.7 Professional Team Attitude</h3>
 - We are always in contact with our client. 
 
 - We dress professional casual during our client meeting. 
@@ -144,7 +144,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
-## 5.1 Technical Depth of Outputs: ##
+<h3> 5.1 Technical Depth of Outputs:</h3>
 
 - Current status is in progress with research, UI design for the Epic 2 rostering system. 
 - Team members will have to figure out how to design and implement a rostering system with flexibility of moving employees from project to project.  
@@ -153,7 +153,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 ![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
 
-## 5.2 Technical Breadth of Outputs: ##
+<h3> 5.2 Technical Breadth of Outputs: </h3>
 
 We tried and used different tools in order to optimise our output
 - **Angular5** for front end development
