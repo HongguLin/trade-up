@@ -11,7 +11,8 @@
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
 <a href = "#Title6"><b> 6. Minute Meetings</b></a><br/>
-<br>
+<a href = "#Title7"><b> 7. Extra</b></a><br/>
+<br />
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
 
@@ -28,8 +29,7 @@ Provide a user friendly platform that can calculate employees' productivity, ros
 - Trade-Up will have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
 - Rostering system that can allocate employees to each project . 
 
-<br>
-
+<br />
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
 <h3> 2.1 Milestones </h3>
@@ -112,6 +112,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 - We follow requirements and keep everything in confidentially as per.
 
+<br />
 <h2><a name = "Title3"> 3. Current Project Progress </a></h2>
 
 <table borde r= 3>
@@ -137,15 +138,17 @@ The team have engaged well in the planning and reporting process outlined by us 
 - Find more info on 
 [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
+<br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
 
 [Decision Making Progress](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
 
+<br />
+
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
-<br />
 <h3> 5.1 Technical Depth of Outputs:</h3>
 
 - Current status is in progress with research, UI design for the Epic 2 rostering system. 
@@ -172,5 +175,8 @@ We tried and used different tools in order to optimise our output
 Meeting Note in 
 [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
 
+<br />
+<h2><a name = "Title7"> 7. Extra</a></h2>
+
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
-<p align="center" vertical-align="middle"><b> Team from Epic 1</b></p>
+<p align="center" vertical-align="middle"><b> Team showcase from Epic 1</b></p>
