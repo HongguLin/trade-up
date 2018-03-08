@@ -4,52 +4,39 @@
 <img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/Trade-Up.png?raw=true" width="620" align="AbsBottom">
 </div>
 
-
-# Project Audit 1 Landing Page
-
-<h2><a name = "content"> Content </a></h2>
-<a href = "#Title1"><b> 1. Value Delivered to the Client </b></a><br/>
+<h2><a name = "content"> Table of Contents </a></h2>
+<a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Current Project Progress </b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
-<a href = "#Title6"><b> 6. Meetings</b></a><br/>
+<a href = "#Title6"><b> 6. Minute Meetings</b></a><br/>
 <br>
 
 
 
-<h2>PROJECT OVERVIEW<h2>
-https://github.com/hong223/trade-up/wiki
+<h2><a name = "Title1"> 1.Project Overview </a></h2>
+Trade Up [www.trade-up.com/au] is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
+
+**Client's Vision**
+Automate current default values associated with productivity of construction companies with existing and future data. 
+
+**Project Value**
+Provide a user friendly platform that can calculate employees' productivity, roster and allocate employees, and generate smart decisions with users' data within the context of productivity.
+
+- Trade-Up clients including subcontractors are able to visualise the project work productivity instead of using paper & pen.
+- Subcontractors will be able to transition from collecting and tracking employees' workflow online instead of paper & pen approach.
+- Trade-Up will have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
+- Rostering system that can allocate employees to each project . 
+
 <br>
-
-<h2><a name = "Title1"> 1. Value Delivered to the Client </a></h2>
-
-
-1. Subcontractors can track project progress and make adjustments for workers to maximise productivity. 
-
-2. Subcontractors are able to forecast work completion date including contract/work completion days, and contract start and end date.
-
-3. Human errors for each construction project can be predicted for each project site.
-
-4. A user-friendly interface for Trade-Up clients have been created to allow easy navigation through tracking each construction project.
-
-5. Trade-Up clients including subcontractors are able to visualise their project using the implemented calendar instead of predicting resources and dates on paper.
-
-6. Trade-Up have now have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
-
-7. Create a rostering system that can allocate employees to each project 
-
-8. connect rostering system with project calendar
-
-9. Display allocation on the project calendar per employee, enable re-allocation of employee to different project if needed
-
 
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
 ## 2.1 Milestones ##
 Milestone 1: Project Calendar
 
-Sprint 1 (Week 3 - Week 4) : Research, look at Angular tutorials, and find similar rostering examples. Roster UI design.
+Sprint 1 (Week 3 - Week 4) : Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
 
 Sprint 2 (Week 5 - Week 6): Start development for project calendar features.
 
@@ -62,7 +49,7 @@ Sprint 4 (Week 9 - Week 10) : Set up final version of development & prepare for 
 
 ## 2.2 Evidence of Decision Making ##
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
+This is the link to the file: (https://drive.google.com/drive/folders/0B1P_0vs9L9yKbjV6NV9PaW5GN00)
 
 
 ## 2.3 Traceability of Actions ##
@@ -77,6 +64,7 @@ This is the link to the flie: (https://drive.google.com/drive/folders/0B1P_0vs9L
 | ---------------------------------| ----------------------| 
 | Annalisa O'Sullivan              | Client                |
 | Trent O'Sullivan                 | Client                | 
+| David Roussov                    | Client                | 
 | Hong You                         | Project Leader        | 
 | Tianhao Li                       | Technical Leader      |
 | Honggu Lin                       | Developer             |
@@ -165,19 +153,15 @@ We make decisions during the client meeting and scrum meeting and the decision m
 ## 5.2 Technical Breadth of Outputs: ##
 
 We tried and used different tools in order to optimise our output
-- Angular5 for front end development
-- Mysql for database
-- Excel for mock-up for algorithms
-- Grails for back-end
-- Jest for testing
-- SASS preprocessing
-- Webpack for module bundling, minification and optimisation
-- Babel transpilation
-- JIRA for agile project management
-- Doodle for organising meeting
-- Slack for communication
-- Github for Landing Page
-- Google Drive for file/notes sharing
+- **Angular5** for front end development
+- **Mysql** for database
+- **Excel** for mock-up for algorithms
+- **Grails** for back-end
+- **JIRA** for agile project management
+- **Doodle** for organising meeting
+- **Slack** for communication
+- **Github** for landing page
+- **Google Drive** for notes and documents
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
-Meeting Note in Google Drive: https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M
+Meeting Note in Google Drive[https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M]
