@@ -35,10 +35,10 @@ Provide a user friendly platform that can calculate employees' productivity, ros
 
 Milestone 1: Project Calendar
 
->**Sprint 1**(Week 3 - Week 4)<br />
+>**Sprint 1** (Week 3 - Week 4)<br />
 Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
 
->Sprint 2 (Week 5 - Week 6)<br />
+>**Sprint 2** (Week 5 - Week 6)<br />
 Start development for project calendar features.
 
 <h4>Milestone 2: Employee Rostering</h4>
