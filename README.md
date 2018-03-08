@@ -145,6 +145,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
+<br />
 <h3> 5.1 Technical Depth of Outputs:</h3>
 
 - Current status is in progress with research, UI design for the Epic 2 rostering system. 
