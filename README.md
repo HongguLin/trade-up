@@ -34,7 +34,7 @@ Provide a user friendly platform that can calculate employees' productivity, ros
 
 <h3> 2.1 Milestones </h3>
 
-Milestone 1: Project Calendar
+<h4>Milestone 1: Project Calendar</h4>
 
 >**Sprint 1** (Week 3 - Week 4)<br />
 Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
@@ -134,12 +134,14 @@ The team have engaged well in the planning and reporting process outlined by us 
 - Research on rostering system
 - UI Design
 - Display allocation in the project calendar per employee
-- Find more info on [current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
+- Find more info on 
+[current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
 
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
-[Decision Making Progress](https://drive.google.com/drive/u/0/folders/1IuBq4XwApiF065wKMdeb74MtCMnnQjGz)
+
+[Decision Making Progress](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
 
 <h2><a name = "Title5"> 5. Project Outputs </a></h2>
 
@@ -166,7 +168,8 @@ We tried and used different tools in order to optimise our output
 - **Google Drive** for notes and documents
 
 <h2><a name = "Title6"> 6. Meetings</a></h2>
-Meeting Note in [Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
+Meeting Note in 
+[Google Drive](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M)
 
 ![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
 <p align="center" vertical-align="middle"><b> Team from Epic 1</b></p>
