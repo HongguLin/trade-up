@@ -13,10 +13,8 @@
 <a href = "#Title6"><b> 6. Minute Meetings</b></a><br/>
 <br>
 
-
-
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
-Trade Up [www.trade-up.com/au] is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
+(Trade Up)[www.trade-up.com/au] is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
 
 **Client's Vision**
 Automate current default values associated with productivity of construction companies with existing and future data. 
@@ -35,12 +33,12 @@ Provide a user friendly platform that can calculate employees' productivity, ros
 
 <h3> 2.1 Milestones </h3>
 
-<h4>Milestone 1: Project Calendar</h4>
+>Milestone 1: Project Calendar
 
-**Sprint 1 (Week 3 - Week 4)**
+**Sprint 1 (Week 3 - Week 4)** . 
 Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
 
-**Sprint 2 (Week 5 - Week 6)**
+**Sprint 2 (Week 5 - Week 6)** . 
 Start development for project calendar features.
 
 <h4>Milestone 2: Employee Rostering</h4>
